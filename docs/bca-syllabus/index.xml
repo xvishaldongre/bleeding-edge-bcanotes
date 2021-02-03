@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>BCA Syllabus on BCA Notes</title>
+    <link>https://examplesite.com/bca-syllabus/</link>
+    <description>Recent content in BCA Syllabus on BCA Notes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <copyright>Made with ❤ by Vishal Dongre</copyright>
+    <lastBuildDate>Mon, 19 Oct 2020 16:11:33 +0530</lastBuildDate><atom:link href="https://examplesite.com/bca-syllabus/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>First Year Syllabus</title>
+      <link>https://examplesite.com/bca-syllabus/first-year-syllabus/</link>
+      <pubDate>Mon, 19 Oct 2020 16:11:33 +0530</pubDate>
+      
+      <guid>https://examplesite.com/bca-syllabus/first-year-syllabus/</guid>
+      <description>Download or Print First Year BCA Syllabus.</description>
+    </item>
+    
+    <item>
+      <title>Second Year Syllabus</title>
+      <link>https://examplesite.com/bca-syllabus/second-year-syllabus/</link>
+      <pubDate>Mon, 19 Oct 2020 16:11:33 +0530</pubDate>
+      
+      <guid>https://examplesite.com/bca-syllabus/second-year-syllabus/</guid>
+      <description>Download or Print Second Year BCA Syllabus.</description>
+    </item>
+    
+    <item>
+      <title>Third Year Syllabus</title>
+      <link>https://examplesite.com/bca-syllabus/third-year-syllabus/</link>
+      <pubDate>Mon, 19 Oct 2020 16:11:33 +0530</pubDate>
+      
+      <guid>https://examplesite.com/bca-syllabus/third-year-syllabus/</guid>
+      <description>Download or Print Third Year BCA Syllabus.</description>
+    </item>
+    
+  </channel>
+</rss>
